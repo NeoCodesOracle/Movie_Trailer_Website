@@ -1,16 +1,18 @@
 # Movie Trailer Website
-
-
+This is a simple server-side application which stores a list of my favorite movies, including box art imagery and a movie trailer URL. This data is then served as a web page allowing visitors to review the movies and watch their respective trailers.
 
 Additionally, the application must meet the following minimum requirements:
 
 Criteria 	  					|				Description
 :--------------------------------:|----------------------------------------------------------------------------------------------------
-| 
-| 
-| 
-| 
-
+Functionality	| Page presents required content (movie title, box art and trailer link)
+				| Page is dynamically generated from a Python data structure.
+				| Page is error free.
+Code Quality	| Code is ready for personal review and neatly formatted.
+Comments		| Comments are present.
+				| Comments effectively explain longer code procedures.
+Documentation   | A README file is included
+				| README file includes details of all the steps required to successfully run the application.
 
 ## Requirements
 
