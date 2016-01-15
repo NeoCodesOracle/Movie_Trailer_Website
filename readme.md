@@ -3,11 +3,11 @@ This application is project number 1 (of 5) of Udacity's Full Stack Developer Na
 
 The application must meet the following minimum requirements:
 
-Criteria 	  					|				Description
-:--------------------------------:|----------------------------------------------------------------------------------------------------
+Criteria 	  	|				Description
+:--------------:|----------------------------------------------------------------------------------------------------
 Functionality	| Page presents required content (movie title, box art and trailer link).
-Page is dynamically generated from a Python data structure.
-Page is error free.
+				  Page is dynamically generated from a Python data structure.
+				  Page is error free.
 Code Quality	| Code is ready for personal review and neatly formatted.
 Comments		| Comments are present. Comments effectively explain longer code procedures.
 Documentation   | A README file is included. README file includes details of all the steps required to successfully run the application.
