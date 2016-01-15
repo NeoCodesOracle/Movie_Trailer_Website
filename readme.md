@@ -41,7 +41,7 @@ You can run this application from IDLE, Python's integrated development environm
 ### Screenshots
 
 **Movie Page**
-![App Splash](https://github.com/NeoCodesOracle/Movie_Trailer/blob/master/static/images/Screenshots/Frontpage.png)
+![App Splash](https://github.com/NeoCodesOracle/Movie_Trailer_Website/blob/master/Screenshots/page.png)
 
 ### File Contents
 <pre>
