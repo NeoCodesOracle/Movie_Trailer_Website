@@ -10,35 +10,35 @@ Code Quality	| Code is ready for personal review and neatly formatted.
 Comments		| Comments are present. Comments effectively explain longer code procedures.
 Documentation   | A README file is included. README file includes details of all the steps required to successfully run the application.
 
-## Requirements
+### Requirements
 
 The following are required to run the application:
 
-1.Latest version of your favorite web browser.
-2.Latest installation of Python, which can be downloaded for free from Python's official website (https://www.python.org/). Once you have downloaded the latest version of Python follow the simple installation instructions.
+1. Latest version of your favorite web browser.
+2. Latest installation of Python, which can be downloaded for free from Python's official website (https://www.python.org/). Once you have downloaded the latest version of Python follow the simple installation instructions.
 
 ### Run Application
 
 You can run this application from IDLE, Python's integrated development environment tool or from the command line.
 
-Running Application Using IDLE
-------------------------------
-1.Open IDLE(Python GUI). A Python Shell window will open.
-2.Go to File -> Open and a window prompt will open.
-3.Navigate to the downloaded folder containing the application files.
-4.Click on the file named entertainment_center and then click Open.
-5.A Python edit window will now open showing you the code for the application you are about to run. 
-6.On the Python edit window, go to Run -> Run Module
-7.A web browser will pop open displaying a list of all my favorite movies.
+#### Running Application Using IDLE
 
-Running Application From Command Line
--------------------------------------
-1.Open your computer's command line
-2.Depending on your machine's configuration you may need to navigate to folder containing the downloaded files.
-3.Once you have navigated to the folder simply type the following command:entertainment_center.py
-4.A web browser will pop open displaying a list of all my favorite movies.
+1. Open IDLE(Python GUI). A Python Shell window will open.
+2. Go to File -> Open and a window prompt will open.
+3. Navigate to the downloaded folder containing the application files.
+4. Click on the file named entertainment_center and then click Open.
+5. A Python edit window will now open showing you the code for the application you are about to run. 
+6. On the Python edit window, go to Run -> Run Module
+7. A web browser will pop open displaying a list of all my favorite movies.
 
-## Screenshots
+#### Running Application From Command Line
+
+1. Open your computer's command line
+2. Depending on your machine's configuration you may need to navigate to folder containing the downloaded files.
+3. Once you have navigated to the folder simply type the following command:entertainment_center.py
+4. A web browser will pop open displaying a list of all my favorite movies.
+
+### Screenshots
 
 **CatalogApp Landing Page**
 ![App Splash](https://github.com/NeoCodesOracle/CatalogApp/blob/master/static/images/Screenshots/Frontpage.png)
@@ -49,15 +49,15 @@ Running Application From Command Line
 **CatalogApp Add Categories Page**
 ![App Categories](https://github.com/NeoCodesOracle/CatalogApp/blob/master/static/images/Screenshots/cats.png)
 
-## File Contents
+### File Contents
 <pre>
 
 </pre>
-##Credits
+### Credits
 
 Created by NeoCodesOracle. Contains code provided by Udacity. Built using Bootstrap.
 
-## License
+### License
 
 Licensed under MIT License (MIT)
 
