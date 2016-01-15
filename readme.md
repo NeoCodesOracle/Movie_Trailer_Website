@@ -10,18 +10,18 @@ Code Quality	| Code is ready for personal review and neatly formatted.
 Comments		| Comments are present. Comments effectively explain longer code procedures.
 Documentation   | A README file is included. README file includes details of all the steps required to successfully run the application.
 
-### Requirements
+### Requirements to Run Application
 
 The following are required to run the application:
 
 1. Latest version of your favorite web browser.
 2. Latest installation of Python, which can be downloaded for free from Python's official website (https://www.python.org/). Once you have downloaded the latest version of Python follow the simple installation instructions.
 
-### Run Application
+### Running the Application
 
 You can run this application from IDLE, Python's integrated development environment tool or from the command line.
 
-#### Running Application Using IDLE
+##### Running Application Using IDLE
 
 1. Open IDLE(Python GUI). A Python Shell window will open.
 2. Go to File -> Open and a window prompt will open.
@@ -31,7 +31,7 @@ You can run this application from IDLE, Python's integrated development environm
 6. On the Python edit window, go to Run -> Run Module
 7. A web browser will pop open displaying a list of all my favorite movies.
 
-#### Running Application From Command Line
+##### Running Application From Command Line
 
 1. Open your computer's command line
 2. Depending on your machine's configuration you may need to navigate to folder containing the downloaded files.
