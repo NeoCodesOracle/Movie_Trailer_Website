@@ -35,23 +35,23 @@ You can run this application from IDLE, Python's integrated development environm
 
 1. Open your computer's command line
 2. Depending on your machine's configuration you may need to navigate to folder containing the downloaded files.
-3. Once you have navigated to the folder simply type the following command: `entertainment_center.py`
+3. Once you have navigated to the folder simply type the following command: `python entertainment_center.py`
 4. A web browser will pop open displaying a list of all my favorite movies.
 
 ### Screenshots
 
-**CatalogApp Landing Page**
-![App Splash](https://github.com/NeoCodesOracle/CatalogApp/blob/master/static/images/Screenshots/Frontpage.png)
-
-**CatalogApp Login Prompt**
-![App Login](https://github.com/NeoCodesOracle/CatalogApp/blob/master/static/images/Screenshots/login.png)
-
-**CatalogApp Add Categories Page**
-![App Categories](https://github.com/NeoCodesOracle/CatalogApp/blob/master/static/images/Screenshots/cats.png)
+**Movie Page**
+![App Splash](https://github.com/NeoCodesOracle/Movie_Trailer/blob/master/static/images/Screenshots/Frontpage.png)
 
 ### File Contents
 <pre>
-
+Movie_Trailer
+	    ├─── entertainment_center.py
+	    ├─── fresh_tomatoes.py
+	    ├─── media.py
+	    ├─── readme.md
+	    └─── Screenshots
+	    		└─── page.png
 </pre>
 ### Credits
 
